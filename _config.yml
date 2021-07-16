@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Bunsho Koyano / Bunsho Koyano"
+title: "Bunsho Koyano"
 title_separator: "-"
 name: &name "Bunsho Koyano"
 description: &description "personal description"
