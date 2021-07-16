@@ -10,7 +10,7 @@ redirect_from:
 
 I am Bunsho Koyano, a research student at The University of Tokyo under the supervision of Professor Tetsuo Shibuya. I earned Bachelor's degree in Mechanical Enginerring in 2018 and Master's degree in the same major in 2020. After finishing Master's course, I started working as a data scientist and focused on machine learning API development and basic data analysis for business growth. I am currently interested in a compression algorithm of the graph data structure for genome sequence.
 
-While focusing on research, I am working as a freelance data scientist. My strength is data analysis and API development. If you have any opportunity, please feel free to contact me.
+While focusing on research, I am working as a freelance data scientist. My strength is data analysis and API development. If you have any opportunity, please feel free to [contact me](https://www.linkedin.com/in/bunsho-koyano-9a0b73170/).
 
 # Research Interests
 
