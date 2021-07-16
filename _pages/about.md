@@ -23,14 +23,14 @@ While focusing on research, I am working as a freelance data scientist. My stren
 - The University of Tokyo (2021-2022)
   - Research Student
   - Research Topic: Compression algorithm of colored de Bruijn graph
-- The University of Tokyo
+- The University of Tokyo (2018-2020)
   - Master's Student in Mechanical Engineering
-- The University of Tokyo
+- The University of Tokyo (2014-2018)
   - Bachelor's Student in Mechanical Engineering
 
 # Work Experience
 
-- Recruit
+- Recruit (2020-2021)
   - API development (Python, SQL, Go)
   - Monitoring machine learning model (Tableau SQL)
   - Data analysis for business growth (Python, SQL)
