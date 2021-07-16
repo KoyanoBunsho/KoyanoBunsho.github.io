@@ -3,7 +3,7 @@ title: "Regrowth and catalytic etching of individual single-walled carbon nanotu
 collection: publications
 permalink: /publication/2019-Regrowth-paper
 excerpt: ""
-date: 2019
+date: 2019-09-01
 venue: "Carbon"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0008622319309364"
 citation: "Bunsho Koyano, Taiki Inoue, Shun Yamamoto, Keigo Otsuka, Rong Xiang, Shohei Chiashi, Shigeo Maruyama,
