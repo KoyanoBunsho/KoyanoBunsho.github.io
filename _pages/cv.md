@@ -18,7 +18,7 @@ redirect_from:
 
 - 2020 - 2021: Data Scientist
 
-  - Recruit
+  - Recruit Co., Ltd.
 
 # Skills
 

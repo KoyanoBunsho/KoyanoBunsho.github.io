@@ -30,7 +30,7 @@ While focusing on research, I am working as a freelance data scientist. My stren
 
 # Work Experience
 
-- Recruit (2020-2021)
+- Recruit Co., Ltd. (2020-2021)
   - API development (Python, SQL, Go)
   - Monitoring machine learning model (Tableau SQL)
   - Data analysis for business growth (Python, SQL)
