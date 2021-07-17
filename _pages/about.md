@@ -15,8 +15,8 @@ While focusing on research, I am working as a freelance data scientist. My stren
 # Research Interests
 
 - Compression algorithm
-- graph data structure
-- machine learning for natural science
+- Graph data structure
+- Machine learning application for natural science
 
 # Education
 
