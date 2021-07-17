@@ -2,13 +2,13 @@
 title: "Digital isotope coding to trace the growth process of individual single-walled carbon nanotubes"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: ""
 date: 2018-04-01
 venue: "ACS Nano"
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
+citation: "K. Otsuka, S. Yamamoto, T. Inoue*, B. Koyano, H. Ukai, R. Yoshikawa, R. Xiang, S. Chiashi, S. Maruyama*, Digital isotope coding to trace growth process of individual single-walled carbon nanotubes, ACS Nano, (2018), 12, 3994-4001."
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://pubs.acs.org/doi/10.1021/acsnano.8b01630)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: K. Otsuka, S. Yamamoto, T. Inoue*, B. Koyano, H. Ukai, R. Yoshikawa, R. Xiang, S. Chiashi, S. Maruyama*, Digital isotope coding to trace growth process of individual single-walled carbon nanotubes, ACS Nano, (2018), 12, 3994-4001.
