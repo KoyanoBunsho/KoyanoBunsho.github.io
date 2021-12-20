@@ -16,6 +16,7 @@ While focusing on research, I am working as a freelance data scientist. My stren
 
 - Compression algorithm
 - Graph data structure
+- Rigidity theory
 - Machine learning application for natural science
 
 # Education
