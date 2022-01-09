@@ -48,7 +48,7 @@ $type-size-8: 0.625em; // ~10px
    ========================================================================== */
 
 $gray: #fafafa;
-$dark-gray: mix(#000, $gray, 40%);
+$dark-gray: mix(#000, $gray, 20%);
 $darker-gray: mix(#000, $gray, 60%);
 $light-gray: mix(#010b1d, $gray, 50%);
 $lighter-gray: mix(#010b1d, $gray, 90%);
@@ -136,7 +136,7 @@ $susy: (
   //   color: blue,
   //   output: overlay,
   //   toggle: top right,
-  // ),,,,,,,,,,,,,,
+  // ),,,,,,,,,,,,,,,
 );
 
 /*
