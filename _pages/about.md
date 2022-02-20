@@ -17,13 +17,12 @@ While focusing on research, I am working as a freelance data scientist. My stren
 - Compression algorithm
 - Graph data structure
 - Rigidity theory
-- Machine learning application for natural science
 
 # Education
 
 - The University of Tokyo (2022-2025 expected)
   - Ph.D Student
-  - Research Topic: Propose new similarity metric for protein structures by using graph theory algorithm
+  - Research Topic: Investigate similarity metric for protein structures by using graph theory algorithm
 - The University of Tokyo (2021-2022)
   - Research Student
   - Research Topic: Propose new similarity metric for protein structures by using graph theory algorithm
