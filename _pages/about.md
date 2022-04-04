@@ -25,7 +25,7 @@ While focusing on research, I am working as a freelance data scientist. My stren
   - Research Topic: Investigate similarity metric for protein structures by using graph theory algorithm
 - The University of Tokyo (2021-2022)
   - Research Student
-  - Research Topic: Propose new similarity metric for protein structures by using graph theory algorithm
+  - Research Topic: Propose similarity metric for protein structures by using graph theory algorithm
 - The University of Tokyo (2018-2020)
   - Master's Student in Mechanical Engineering
 - The University of Tokyo (2014-2018)

@@ -41,7 +41,6 @@ redirect_from:
 ## International
 - T. Inoue, B. Koyano, S. Yamamoto, S. Hiraoka, K. Otsuka, R. Xiang, S. Chiashi and S. Maruyama, “Growth process of individual single-walled carbon nanotubes analyzed by isotope labelling”, Poster presentation at NT19: International Conference on the Science and Application of Nanotubes and Low-Dimensional Materials, Congress Center Wurzburg, Wurzburg, Germany, July 2019. (expected). 
 - S. Yamamoto, B. Koyano, Shota Hiraoka, K. Hisama, K. Otsuka, T. Inoue, R. Xiang, S. Chiashi and S. Maruyama, “Relation between growth conditions and growth profiles of individual SWNTs studied by digital isotope labeling”, Poster presentation at the 56th Fullerenes-Nanotubes-Graphene General Symposium, The University of Tokyo, Tokyo, Japan, March 2019.  
-- B. Koyano, S. Yamamoto, K. Otsuka, T. Inoue, R. Xiang, S. Chiashi and S. Maruyama, “Isotope Labelling Analysis for Regrowth of Single-Walled Carbon Nanotubes”, Poster presentation at CIAiS International Symposium 2019, The University of Tokyo, Tokyo, Japan, March 2019. 
 - S. Yamamoto, K. Otsuka, B. Koyano, T. Inoue, R. Xiang, S. Chiashi and S. Maruyama, “Effect of catalysts and growth conditions of individual SWNTs studied by digital isotope labeling”, Poster presentation at the 55th Fullerenes-Nanotubes-Graphene General Symposium, Tohoku University, Miyagi, Japan, September 2018.
 
 ## Domestic
