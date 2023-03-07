@@ -29,7 +29,7 @@ redirect_from:
   - Go
 - Language
   - Japanese (Native)
-  - English (TOEFL iBT 98/120)
+  - English (TOEFL iBT 101/120)
 
 # Publications
 
@@ -47,4 +47,4 @@ redirect_from:
 - S. Maruyama, K. Otsuka, T. Inoue, S.Yamamoto, <u>B.Koyano</u>, R.Yoshikawa, R.Xiang, S. Chiashi, “Digital-Coded Isotope Labeling on Individual Single-Walled Carbon Nanotubes Grown on Crystal Quartz”, Oral presentation at NT18: International Conference on the Science and Application of Nanotubes and Low-dimensional Materials, Pekin University, Beijing, China, July 2018.
 
 ## Domestic
-- 同位体ラベルによる単層カーボンナノチューブの再成長の分析 <u>小矢野文章</u>、山元 隼、大塚 慶吾、井ノ上 泰輝、項 栄、千足 昇平、丸山 茂夫
+- 同位体ラベルによる単層カーボンナノチューブの再成長の分析、2019 <u>小矢野文章</u>、山元 隼、大塚 慶吾、井ノ上 泰輝、項 栄、千足 昇平、丸山 茂夫
