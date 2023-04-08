@@ -21,7 +21,7 @@ I am Bunsho Koyano, a Ph.D. student in Computer Science at The University of Tok
 
 - The University of Tokyo (2022-2025 expected)
   - Ph.D Student
-  - Research Topic: Investigate similarity metric for protein structures by using graph theory algorithm
+  - Research Topic: Investigate similarity metric for protein structures by using graph theoretic algorithm
 - The University of Tokyo (2021-2022)
   - Research Student
   - Research Topic: Propose similarity metric for protein structures by using graph theory algorithm
