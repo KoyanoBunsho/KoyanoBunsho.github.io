@@ -13,9 +13,9 @@ I am Bunsho Koyano, a Ph.D. student in Computer Science at The University of Tok
 
 # Research Interests
 
-- Compression algorithm
-- Graph data structure
+- Graph algorithm
 - Rigidity theory
+- Protein structure
 
 # Education
 
