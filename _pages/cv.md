@@ -31,7 +31,7 @@ redirect_from:
   - Japanese (Native)
   - English (TOEFL iBT 101/120)
 
-# Publications
+# Journal
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
