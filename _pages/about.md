@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Bunsho Koyano, a Ph.D. student in Computer Science at The University of Tokyo under the supervision of Professor Tetsuo Shibuya. I earned a Bachelor's degree in Mechanical Engineering in 2018 and a Master's degree in the same major in 2020 at the University of Tokyo. After finishing my Master's course, I started working as a data scientist and focused on machine learning API development and basic data analysis for business growth. I am currently interested in graph theory applications in bioinformatics.
+I am Bunsho Koyano, a Ph.D. student in Computer Science at The University of Tokyo under the supervision of Professor Tetsuo Shibuya. I earned a Bachelor's degree in Mechanical Engineering in 2018 and a Master's degree in the same major in 2020 at the University of Tokyo. After finishing my Master's course, I started working as a data scientist and focused on machine learning API development and basic data analysis for business growth. I am currently interested in graph algorithms for bioinformatics.
 
 
 # Research Interests
