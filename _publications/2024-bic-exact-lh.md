@@ -6,6 +6,6 @@ excerpt: ""
 date: 2025-3-1
 venue: "Journal of Computational Biology"
 paperurl: ""
-citation: "B. Koyano and T. Shibuya*, Accepted"
+citation: "B. Koyano and T. Shibuya*, TBD"
 ---
 
