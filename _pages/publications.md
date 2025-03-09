@@ -16,7 +16,8 @@ author_profile: true
 {% endfor %}
 ## Under review
 - <u>B. Koyano</u> and T. Shibuya*, "Fast and Accurate Protein Hinge Structure Detection Algorithm Utilizing Partial Monge Properties", submitted.
-- <u>B. Koyano</u> and T. Shibuya*, "Faster and More Accurate Estimation of the Number of Protein Hines Based on Information Criteria", submitted.
+- <u>B. Koyano</u> and T. Shibuya*, "Fast and Accurate Comparison of Protein Conformational Ensembles", submitted
+
 # Conference
 ## International
 - T.Inoue, <u>B.Koyano</u>, S.Yamamoto, K. Otsuka, R. Xiang, S.Chiashi and S. Maruyama, “Growth, etching, and regrowth of individual single-walled carbon nanotubes: Isotope labeling study”, Poster presentation at the 57th Fullerenes-Nanotubes-Graphene General Symposium, Nagoya University, Aichi, Japan, September 2019. 
