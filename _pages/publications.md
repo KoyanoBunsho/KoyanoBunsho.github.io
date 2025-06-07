@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %}
 ## Under review
 - <u>B. Koyano</u> and T. Shibuya*, "Fast and Accurate Protein Hinge Structure Detection Algorithm Utilizing Partial Monge Properties", submitted.
-- <u>B. Koyano</u> and T. Shibuya*, "Fast and Accurate Comparison of Protein Conformational Ensembles", submitted
 
 # Conference
 ## International
