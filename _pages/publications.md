@@ -19,7 +19,7 @@ author_profile: true
 
 # Conference
 ## International (Non-refereed)
-- Bunsho Koyano, Tetsuo Shibuya, Fast and Accurate Comparison of Protein Conformational Ensembles, ,  25th WABI Conference on Algorithms in Bioinformatics (WABI 2025), University of Maryland, in College Park, MD, USA, August 20 - 22, 2025. https://wabiconf.github.io/2025/
+- Bunsho Koyano, Tetsuo Shibuya, Fast and Accurate Comparison of Protein Conformational Ensembles, 25th WABI Conference on Algorithms in Bioinformatics (WABI 2025), University of Maryland, in College Park, MD, USA, August 20 - 22, 2025. https://wabiconf.github.io/2025/
 - T.Inoue, <u>B.Koyano</u>, S.Yamamoto, K. Otsuka, R. Xiang, S.Chiashi and S. Maruyama, “Growth, etching, and regrowth of individual single-walled carbon nanotubes: Isotope labeling study”, Poster presentation at the 57th Fullerenes-Nanotubes-Graphene General Symposium, Nagoya University, Aichi, Japan, September 2019. 
 - T. Inoue, <u>B.Koyano</u>, S. Yamamoto, S. Hiraoka, K. Otsuka, R. Xiang, S. Chiashi and S. Maruyama, “Growth process of individual single-walled carbon nanotubes analyzed by isotope labelling”, Poster presentation at NT19: International Conference on the Science and Application of Nanotubes and Low-Dimensional Materials, Congress Center Wurzburg, Wurzburg, Germany, July 2019. 
 - S. Yamamoto, <u>B.Koyano</u>, Shota Hiraoka, K. Hisama, K. Otsuka, T. Inoue, R. Xiang, S. Chiashi and S. Maruyama, “Relation between growth conditions and growth profiles of individual SWNTs studied by digital isotope labeling”, Poster presentation at the 56th Fullerenes-Nanotubes-Graphene General Symposium, The University of Tokyo, Tokyo, Japan, March 2019.  
