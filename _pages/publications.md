@@ -33,6 +33,6 @@ author_profile: true
 
 
 ## Domestic Conference Presentations (Non-refereed)
-- Faster and More Accurate Estimation of Protein Hinges Based on Information Criteria，IPSJ SIGBIO-82, June 23, 2025 <u>小矢野文章</u>, 渋谷哲朗
+- Faster and More Accurate Estimation of Protein Hinges Based on Information Criteria，IPSJ SIGBIO-82, June 23, 2025 <u>小矢野文章</u>, 渋谷哲朗 <b>(SIGBIO Good Presentation Award)</b>
 - Fast and Accurate Comparison of Protein Conformational Ensembles，IPSJ SIGBIO-82, June 23, 2025 <u>小矢野文章</u>, 渋谷哲朗
 - 同位体ラベルによる単層カーボンナノチューブの再成長の分析、2019 <u>小矢野文章</u>、山元 隼、大塚 慶吾、井ノ上 泰輝、項 栄、千足 昇平、丸山 茂夫
