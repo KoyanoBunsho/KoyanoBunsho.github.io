@@ -20,7 +20,7 @@ I am Bunsho Koyano, an engineer at LINE Yahoo Corporation. My strength lies in d
 # Education
 
 - The University of Tokyo (2022-2025)
-  - Ph.D Student
+  - Ph.D Student in Information Science and Technology
   - Research Topic: Faster Algorithms Based on Monge Properties and Their Applications to Structural Biology
 - The University of Tokyo (2021-2022)
   - Research Student
