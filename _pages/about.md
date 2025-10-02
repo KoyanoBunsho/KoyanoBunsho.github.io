@@ -32,6 +32,8 @@ I am currently working as an engineer at LINE Yahoo Corporation. My strength lie
 
 # Work Experience
 
+- LINE Yahoo Corporation (2025-present)
+
 - D-stats, Inc. (2021-2025)
   - Education-related business
     - Evaluation of the effectiveness of students’ problem re-solving
