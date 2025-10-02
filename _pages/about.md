@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Bunsho Koyano, an engineer at LINE Yahoo Corporation. My strength lies in designing fast and accurate algorihtms.
+I am Bunsho Koyano, Ph.D.
+I am currently working as an engineer at LINE Yahoo Corporation. My strength lies in designing fast and accurate algorihtms.
 
 
 # Research Interests
 
 - Graph algorithm
-- Monge property
-- Protein structure
+- Combinatorial optimization
 
 # Education
 
