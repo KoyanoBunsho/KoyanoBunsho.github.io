@@ -11,11 +11,18 @@ redirect_from:
 
 # Education
 
+- Ph.D. in Information Science and Technology, The University of Tokyo, 2025
 - M.S. in Mechanical Engineering, The University of Tokyo, 2020
 - B.S. in Mechanical Engineering, The University of Tokyo, 2018
 
 # Work experience
 
+- 2025 - present: Engineer
+  - LINE Yahoo Corporation
+
+- 2021 - 2025: Data Scientist
+
+  - D-stats, Inc.
 - 2020 - 2021: Data Scientist
 
   - Recruit Co., Ltd.
