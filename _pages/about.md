@@ -50,9 +50,10 @@ I am currently working as an engineer at LINE Yahoo Corporation. My strength lie
 <section class="about-news">
   <h2>News</h2>
   <ul>
-    <li><strong>August 2025</strong>: My paper, <a href="/publication/2025-md-rmsd">"Fast and Accurate Comparison of Protein Conformational Ensembles"</a>, was selected for the IPSJ Transactions on Bioinformatics Outstanding Paper Award.</li>
+    <li><strong>August 2025</strong>: My paper, <a href="/publication/2025-md-rmsd">"Fast and Accurate Comparison of Protein Conformational Ensembles"</a>, was selected for the <a href="https://www.ipsj.or.jp/award/2025_05.html">IPSJ Transactions on Bioinformatics Outstanding Paper Award</a>.</li>
     <li><strong>August 2025</strong>: Presented "Fast and Accurate Comparison of Protein Conformational Ensembles" at WABI 2025.</li>
-    <li><strong>June 2025</strong>: Received the SIGBIO Good Presentation Award at IPSJ SIGBIO-82.</li>
+    <li><strong>June 2025</strong>: Received the <a href="https://www.ipsj.or.jp/award/bio-award3.html">SIGBIO Good Presentation Award</a> at IPSJ SIGBIO-82.</li>
+    <li><strong>June 2025</strong>: I was awarded the <a href="https://www.ipsj.or.jp/award/bio-award1.html">2025 IPSJ SIGBIO Student Award</a> from SIGBIO, IPSJ.</li>
     <li><strong>May 2025</strong>: Our paper, <a href="/publication/2024-bic-exact-lh">"Faster and More Accurate Estimation of Protein Hinges Based on Information Criteria"</a>, was published in the Journal of Computational Biology.</li>
     <li><strong>2025</strong>: Joined LINE Yahoo Corporation as an engineer.</li>
   </ul>
