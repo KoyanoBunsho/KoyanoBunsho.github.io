@@ -101,6 +101,30 @@
     font-size: $type-size-6;
   }
 
+  .about-news {
+    margin-top: 3em;
+    padding: 1.25em 1.5em 1em;
+    color: mix(#000, $text-color, 15%);
+    background-color: $lighter-gray;
+    border-top: 1px solid $light-gray;
+
+    h2 {
+      margin-top: 0;
+      padding-bottom: 0.5em;
+      font-size: $type-size-5;
+      border-bottom: 1px solid $light-gray;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 1.25em;
+    }
+
+    li {
+      font-size: $type-size-6;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
