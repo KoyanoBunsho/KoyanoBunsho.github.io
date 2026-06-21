@@ -11,6 +11,13 @@ redirect_from:
 I am Bunsho Koyano (小矢野文章), Ph.D.
 I am currently working as an engineer at LINE Yahoo Corporation. My strength lies in designing fast and accurate algorihtms.
 
+# News
+
+- **August 2025**: My paper, ["Fast and Accurate Comparison of Protein Conformational Ensembles"](/publication/2025-md-rmsd), was selected for the IPSJ Transactions on Bioinformatics Outstanding Paper Award.
+- **August 2025**: Presented "Fast and Accurate Comparison of Protein Conformational Ensembles" at WABI 2025.
+- **June 2025**: Received the SIGBIO Good Presentation Award at IPSJ SIGBIO-82.
+- **May 2025**: Our paper, ["Faster and More Accurate Estimation of Protein Hinges Based on Information Criteria"](/publication/2024-bic-exact-lh), was published in the Journal of Computational Biology.
+- **2025**: Joined LINE Yahoo Corporation as an engineer.
 
 # Research Interests
 
