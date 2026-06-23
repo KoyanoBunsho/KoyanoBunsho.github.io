@@ -116,8 +116,11 @@
     }
 
     ul {
+      max-height: 12em;
       margin-bottom: 0;
       padding-left: 1.25em;
+      padding-right: 0.75em;
+      overflow-y: auto;
     }
 
     li {
