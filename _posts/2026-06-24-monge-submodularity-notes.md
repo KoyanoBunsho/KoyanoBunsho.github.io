@@ -8,8 +8,8 @@ tags:
   - algorithms
 ---
 
-I plan to use this blog as a place to organize short technical notes and ideas that are still taking shape.
+I plan to use this blog as a place to organize short technical notes.
 
-My main focus will be on topics around the Monge property and submodularity. I am interested in how these discrete structures appear in optimization, dynamic programming, and algorithm design, and how they can be used to obtain faster or cleaner algorithms.
+My main focus will be on topics around the Monge property and submodularity. I am interested in how these discrete structures appear in optimization, dynamic programming, and algorithm design, and how they can be used to obtain faster algorithms.
 
 For now, this page is a starting point. Future posts will likely include intuitive explanations, small examples, proof sketches, and notes on connections between related concepts.
