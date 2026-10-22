@@ -15,6 +15,6 @@ end
 
 group :test do
   gem "bundler-audit", "~> 0.9", require: false
-  gem "minitest", "~> 5.0", require: false
+  gem "minitest", "~> 6.0", require: false
   gem "nokogiri", ">= 1.19.4", "< 2", require: false
 end
