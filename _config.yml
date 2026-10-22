@@ -21,7 +21,7 @@ future: true
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider: false # "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname:
   discourse:
@@ -124,11 +124,13 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .cache
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
   - Gruntfile.js
   - LICENSE
   - README
@@ -141,6 +143,12 @@ exclude:
   - log
   - node_modules
   - package.json
+  - package-lock.json
+  - scripts
+  - tests
+  - markdown_generator
+  - talkmap.py
+  - talkmap.ipynb
   - tmp
   - vendor
 keep_files:

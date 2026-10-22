@@ -72,6 +72,8 @@ $(document).ready(function(){
     //   return true;
     // },
     type: 'image',
+    allowHTMLInStatusIndicator: false,
+    allowHTMLInTemplate: false,
     tLoading: 'Loading image #%curr%...',
     gallery: {
       enabled: true,
@@ -79,7 +81,7 @@ $(document).ready(function(){
       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
-      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
+      tError: 'Image #%curr% could not be loaded.',
     },
     removalDelay: 500, // Delay in milliseconds before popup is removed
     // Class that is added to body when popup is open.

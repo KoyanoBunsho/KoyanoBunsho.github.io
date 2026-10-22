@@ -1,2 +1,9 @@
 _site/
+node_modules/
+.bundle/
+.cache/
+.jekyll-cache/
+.sass-cache/
+/vendor/
+__pycache__/
 
