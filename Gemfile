@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Match GitHub Pages' Jekyll series without pulling in unused remote themes
 # and the vulnerable rubyzip version required by the github-pages meta-gem.
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 4.4.1"
 gem "kramdown-parser-gfm", "~> 1.1"
 
 group :jekyll_plugins do
