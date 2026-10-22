@@ -22,7 +22,7 @@
     "node": ">=24.0.0"
   },
   "devDependencies": {
-    "jquery": "3.7.1",
+    "jquery": "4.0.0",
     "jsdom": "27.4.0",
     "leaflet": "1.9.4",
     "leaflet.markercluster": "1.5.3",
