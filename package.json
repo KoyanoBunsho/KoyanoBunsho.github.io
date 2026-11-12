@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "jquery": "3.7.1",
-    "jsdom": "27.4.0",
+    "jsdom": "31.0.0",
     "leaflet": "1.9.4",
     "leaflet.markercluster": "1.5.3",
     "magnific-popup": "1.2.0",
