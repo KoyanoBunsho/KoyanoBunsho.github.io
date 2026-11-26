@@ -27,7 +27,7 @@
     "leaflet": "1.9.4",
     "leaflet.markercluster": "1.5.3",
     "magnific-popup": "1.2.0",
-    "terser": "5.51.2"
+    "terser": "5.51.4"
   },
   "scripts": {
     "uglify": "npm run build:js",
